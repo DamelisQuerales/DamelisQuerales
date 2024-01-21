@@ -3,7 +3,7 @@
 - 🔭 I have been working in Banking
 - 🌱 I’m currently learning QA automation.
 - 👯 I am looking to collaborate on development projects as a QA Analyst
-- 💬 Ask me about ...
+- 💬 Ping me about Testing, Recourses of testing, Agile, Communities
 - 📫 How to reach me: https://www.linkedin.com/in/damelisquerales/
   
 <!--

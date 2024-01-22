@@ -33,6 +33,6 @@ Eterna aprendiz en el campo de la transformación tecnológica, con el objetivo 
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?DamelisQuerales=DenverCoder1&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=default)](https://git.io/streak-stats)
 
 

@@ -3,8 +3,8 @@
 src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.PNG" 
 width="800"/> 
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DamelisQuerales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/damelisquerales/)
+<div style="display: flex; justify-content: center; align-items: center;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-DamelisQuerales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/damelisquerales/)
 </div>
 
 <h1>

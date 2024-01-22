@@ -10,7 +10,7 @@ width="800"/>
 <h1>
   Hola soy Damelis. ¡Gracias por estar aquí!
 </h1>
----
+
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
@@ -18,6 +18,6 @@ Eterna aprendiz en el campo de la transformación tecnológica, con el objetivo 
 * :telescope: En los últimos 7 años he estado trabajando en banca
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL, Python, Selenium
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damelisquerales/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Damelis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damelisquerales/)
 
 

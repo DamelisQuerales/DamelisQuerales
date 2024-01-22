@@ -4,8 +4,6 @@ src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.P
 width="800"/> 
 </div>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damelis_Querales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/damelisquerales/)
-</div>
 
 <h1>
   Hola soy Damelis. ¡Gracias por estar aquí!

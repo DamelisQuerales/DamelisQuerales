@@ -1,10 +1,6 @@
-### Hi there 👋
-
-- 🔭 I have been working in Banking
-- 🌱 I’m currently learning QA automation.
-- 👯 I am looking to collaborate on development projects as a QA Analyst
-- 💬 Ping me about Testing, Recourses of testing, Agile, Communities
-- 📫 How to reach me: https://www.linkedin.com/in/damelisquerales/
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Banner%20Githubbanner.png" width="800"/>
+</div>
 
   
 <!--

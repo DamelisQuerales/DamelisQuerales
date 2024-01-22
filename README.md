@@ -34,4 +34,4 @@ Eterna aprendiz en el campo de la transformación tecnológica, con el objetivo 
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DamelisQuerales&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+

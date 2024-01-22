@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" 
-src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.png" 
+src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.PNG" 
 width="800"/>
 </div>
 

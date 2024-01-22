@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Banner%20Githubbanner.png" width="800"/>
+  <img decoding="async" src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.png" width="800"/>
 </div>
 
   

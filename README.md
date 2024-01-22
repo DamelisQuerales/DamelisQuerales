@@ -8,7 +8,6 @@ width="800"/>
     
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
-<!--
 <h1>
   Hola soy Damelis. ¡Gracias por estar aquí!
 </h1>

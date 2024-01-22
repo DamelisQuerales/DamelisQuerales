@@ -4,7 +4,7 @@ src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.p
 width="800"/>
 </div>
 
-  
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damelisquerales/) 
 <!--
 **DamelisQuerales/DamelisQuerales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

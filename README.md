@@ -26,11 +26,11 @@ Eterna aprendiz en el campo de la transformación tecnológica, con el objetivo 
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="postman"/>
+ <img decoding="async" src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
   </a>
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DamelisQuerales&theme=default)](https://git.io/streak-stats)
 
 

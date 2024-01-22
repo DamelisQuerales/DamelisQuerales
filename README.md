@@ -6,18 +6,18 @@ width="800"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DamelisQuerales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/damelisquerales/)
 </div>
-    
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DamelisQuerales.DamelisQuerales&color=00cf00" alt=""/>
+
 <h1>
   Hola soy Damelis. ¡Gracias por estar aquí!
 </h1>
+---
+ <div id="header" align="left">
 
-- 🔭 I have been working in Banking
-- 🌱 I’m currently learning QA automation.
-- 👯 I am looking to collaborate on development projects as a QA Analyst
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/damelisquerales/
-    
+### :woman_technologist: Sobre mí :
+Eterna aprendiz en el campo de la transformación tecnológica, con el objetivo de convertirme en una QA Automation Engineer. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: En los últimos 7 años he estado trabajando en banca
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL, Python, Selenium
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damelisquerales/)
 
--->
+

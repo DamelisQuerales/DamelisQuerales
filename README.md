@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img decoding="async" 
-src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Githubbanner.PNG" 
+src="https://github.com/DamelisQuerales/DamelisQuerales/blob/main/Banner.PNG" 
 width="800"/> 
 </div>
 
 
 <h1>
-  Hola soy Damelis. ¡Gracias por estar aquí!
+  Hola soy Damelis, un gusto saludarte, ¡Gracias por estar aquí!
 </h1>
 
  <div id="header" align="left">
